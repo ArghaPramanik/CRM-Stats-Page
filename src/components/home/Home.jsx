@@ -1,8 +1,7 @@
 import { useState } from 'react';
-import TimeSelector from '../TimeSelector/TimeSelector.jsx';
+import TimeSelector from '../timeSelector/TimeSelector.jsx';
 import Charts from '../charts/chart.jsx';
-import Cards from '../cards/cards.jsx'
-
+import Cards from '../cards/cards.jsx';
 const Home = () => {
   const [timeRange, setTimeRange] = useState("1 day");
   
