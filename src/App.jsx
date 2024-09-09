@@ -1,5 +1,3 @@
-
-import "./App.css";
 import Footer from "./components/footer/footer.jsx";
 import Header from "./components/header/Header.jsx";
 import Home from "./components/home/Home.jsx";
